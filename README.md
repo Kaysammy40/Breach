@@ -11,3 +11,9 @@ A total of 3 bugs were reported in the issue log sheet.
 
 ## Test Plan
 [View Test Plan here](https://docs.google.com/document/d/1aGier_JvxQJ3xUKBz5r1p6yZXBEuYBgsYJtUCiG5iow/edit?usp=sharing)
+
+## Test Execution
+[Test cases execution for Frontend, Backend and Issue log.](https://docs.google.com/spreadsheets/d/1gWusW1hhS7gpEAsd5b78VK6H2s4PFw8DAPvW8Ys0CNU/edit?usp=sharing)
+
+## Video
+[Link to the videos](https://docs.google.com/document/d/14V2WmQoG1-Elu9EiZfszi0vVMYYYeRAZ7Z3IjE6a1Tk/edit?usp=sharing)
