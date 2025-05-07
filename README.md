@@ -1,6 +1,6 @@
 # Breach
 ## Description
-This is a documentation of the Breach web application, which comprises the Test plan, Test cases created from exploratory testing using the application under test AUT and the UI/UX design  for the frontend and the backend. An issue log is created to report bugs after executing the test cases developed for the frontend and the backend.
+This is a documentation of the Breach web application, which comprises the Test plan, Test cases created from exploratory testing using the application under test AUT and the UI/UX design  for the frontend and the backend. An issue log is created to report bugs after executing the test cases developed for the frontend and the backend. The test execution was within the coverage module requested from the document.
 
 ## TEST SUMMARY
 Test execution on the frontend using exploratory testing being carried out manually resulted in 2 failed test cases and 36 passed test cases during the execution of a total of 38 test cases. The 2 bugs found were of medium severity and were reported in the issue log sheet.
