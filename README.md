@@ -8,3 +8,6 @@ Test execution on the frontend using exploratory testing being carried out manua
 Test execution on the backend manually resulted in 1 failed test case, 2 not executed test cases, resulting unrecognised token format, and 16 test cases passed from a total of 18 test cases. 
 
 A total of 3 bugs were reported in the issue log sheet.
+
+## Test Plan
+[View Test Plan here](https://docs.google.com/document/d/1aGier_JvxQJ3xUKBz5r1p6yZXBEuYBgsYJtUCiG5iow/edit?usp=sharing)
